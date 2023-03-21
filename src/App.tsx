@@ -1,8 +1,8 @@
-import Logo from '/src/logo.svg';
-import Facebook from '/src/icon-facebook.svg';
-import Twitter from '/src/icon-twitter.svg';
-import Instagram from '/src/icon-instagram.svg';
-import Illustration from '/src/illustration-dashboard.png';
+import Logo from '/src/images/logo.svg';
+import Facebook from '/src/images/icon-facebook.svg';
+import Twitter from '/src/images/icon-twitter.svg';
+import Instagram from '/src/images/icon-instagram.svg';
+import Illustration from '/src/images/illustration-dashboard.png';
 
 function App() {
   let validEmail =  /^\w+([.-_+]?\w+)*@\w+([.-]?\w+)*(\.\w{2,10})+$/;
